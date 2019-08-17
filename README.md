@@ -17,11 +17,9 @@ If you use and like this extension, buy me a beer 🍺🤘 (or a coffee, I like 
 
 - Youtube
 - Youtube music
-
-### Coming soon
-
-*Open an issue to let me know which one you want*
-
 - Spotify
 - Deezer
 - Tidal
+
+
+*Open an issue to let me know if you want me to add another platform*
