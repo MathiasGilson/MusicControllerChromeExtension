@@ -9,7 +9,14 @@
         "48": "icons/icon48.png",
         "128": "icons/icon128.png"
     },
-    "permissions": ["activeTab", "tabs", "http://*/", "https://*/"],
+    "permissions": [
+        "tabs",
+        "https://www.youtube.com/*",
+        "https://music.youtube.com/*",
+        "https://www.deezer.com/*",
+        "https://open.spotify.com/*",
+        "https://listen.tidal.com/*"
+    ],
     "browser_action": {
         "default_icon": {
             "19": "icons/icon19.png",

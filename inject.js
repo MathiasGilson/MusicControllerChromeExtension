@@ -39,7 +39,7 @@ const PLAYERS = {
         buttonBased: true,
         next: `'.svg-icon-group-btn[aria-label="Next"]'`,
         prev: `'.svg-icon-group-btn[aria-label="Back"]'`,
-        playPause: `'.svg-icon-group-btn[aria-label="Pause"]'`
+        playPause: `'.svg-icon-group-btn[aria-label="Pause"], .svg-icon-group-btn[aria-label="Play"]'`
     },
     "open.spotify.com": {
         buttonBased: true,
