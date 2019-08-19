@@ -6,10 +6,10 @@ document.addEventListener("DOMContentLoaded", function() {
     })
 
     document.querySelector("#about").addEventListener("click", function() {
-        window.open("https://github.com/MathiasGilson/MediaControllerChromeExtension")
+        window.open("https://github.com/MathiasGilson/MusicControllerChromeExtension")
     })
 
     document.querySelector("#feedback").addEventListener("click", function() {
-        window.open("https://github.com/MathiasGilson/MediaControllerChromeExtension/issues")
+        window.open("https://github.com/MathiasGilson/MusicControllerChromeExtension/issues")
     })
 })

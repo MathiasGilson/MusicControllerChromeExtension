@@ -1,7 +1,7 @@
 {
-    "name": "Media controller",
-    "short_name": "mediacontroller",
-    "version": "0.0.1",
+    "name": "Music controller",
+    "short_name": "music-controller",
+    "version": "0.0.2",
     "manifest_version": 2,
     "description": "Play/Pause, Next and Previous control for your favorite music streaming platform",
     "icons": {
