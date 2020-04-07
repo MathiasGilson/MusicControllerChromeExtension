@@ -2,7 +2,7 @@
 
 
 
-Use keyboard media keys ⏪⏯⏩ to control your favorite music streaming service 🎵 without having to switch tab 😎
+Use keyboard media hotkeys ⏪⏯⏩ to control your favorite music streaming service 🎵 without having to switch tab 😎
 
 ### Installation
 
