@@ -1,9 +1,9 @@
 {
-    "name": "Music controller",
-    "short_name": "music-controller",
-    "version": "0.0.2",
+    "name": "Streaming Music Controller: YouTube, Spotify",
+    "short_name": "online-music-controller",
+    "version": "0.0.4",
     "manifest_version": 2,
-    "description": "Play/Pause, Next and Previous control for your favorite music streaming platform",
+    "description": "Use keyboard media hotkeys to control YouTube, Youtube Music, Spotify, Tidal, Deezer and improve focus and increase productivity",
     "icons": {
         "16": "icons/icon16.png",
         "48": "icons/icon48.png",
