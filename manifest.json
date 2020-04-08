@@ -1,6 +1,6 @@
 {
-    "name": "Streaming Music Controller: YouTube, Spotify",
-    "short_name": "online-music-controller",
+    "name": "HotKey Music Controller: YouTube, Spotify",
+    "short_name": "keyboard-media-hotkey-music-controller",
     "version": "0.0.4",
     "manifest_version": 2,
     "description": "Use keyboard media hotkeys to control YouTube, Youtube Music, Spotify, Tidal, Deezer and improve focus and increase productivity",
