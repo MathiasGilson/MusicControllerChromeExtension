@@ -15,7 +15,8 @@
         "https://music.youtube.com/*",
         "https://www.deezer.com/*",
         "https://open.spotify.com/*",
-        "https://listen.tidal.com/*"
+        "https://listen.tidal.com/*",
+        "https://musique.qub.ca/*"
     ],
     "browser_action": {
         "default_icon": {
