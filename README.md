@@ -1,3 +1,5 @@
+### ⚠️ Chrome now supports hotkey music control by default so this extension doesn't make sense anymore and won't be maintained ⚠️
+
 # Chrome extension for music control
 
 Use keyboard media hotkeys ⏪ ⏯ ⏩ to control your favorite music streaming service 🎵 without having to switch tab 😎
