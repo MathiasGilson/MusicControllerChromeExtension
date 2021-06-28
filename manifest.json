@@ -3,7 +3,7 @@
     "short_name": "keyboard-media-hotkey-music-controller",
     "version": "0.0.5",
     "manifest_version": 2,
-    "description": "Use keyboard media hotkeys to control YouTube, Youtube Music, Spotify, Tidal, Deezer and improve focus and increase productivity",
+    "description": "Use keyboard media hotkeys to control YouTube, Youtube Music, Spotify, Tidal, Deezer, QUB Musique and improve focus and increase productivity",
     "icons": {
         "16": "icons/icon16.png",
         "48": "icons/icon48.png",
@@ -15,7 +15,8 @@
         "https://music.youtube.com/*",
         "https://www.deezer.com/*",
         "https://open.spotify.com/*",
-        "https://listen.tidal.com/*"
+        "https://listen.tidal.com/*",
+        "https://musique.qub.ca/*"
     ],
     "browser_action": {
         "default_icon": {

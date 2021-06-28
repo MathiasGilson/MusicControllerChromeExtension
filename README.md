@@ -28,5 +28,6 @@ If you use and like this extension, buy me a beer 🍺🤘 (or a coffee, I like 
 -   <img src="https://simpleicons.org/icons/spotify.svg" width="12"/> Spotify
 -   <img src="https://simpleicons.org/icons/deezer.svg" width="12"/> Deezer
 -   <img src="https://simpleicons.org/icons/tidal.svg" width="12"/> Tidal
+-   <img src="https://musique.qub.ca/_next/static/images/Logo_QUB_musique_Horizontal-6e871df1e30d14a198883f590eb9c449.svg" width="12"/> QUB Musique
 
 _Open an issue to let me know if you want me to add another platform_

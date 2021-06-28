@@ -53,6 +53,12 @@ const PLAYERS = {
         prev: `'.playback-controls__button--white-icon[data-test="previous"]'`,
         playPause: `'.playback-controls__button--white-icon[data-test="play"], .playback-controls__button--white-icon[data-test="pause"]'`,
     },
+    "musique.qub.ca": {
+        buttonBased: true,
+        next: `'.MuiButtonBase-root[data-testid="button-SKIP_NEXT"]'`,
+        prev: `'.MuiButtonBase-root[data-testid="button-SKIP_PREVIOUS"]'`,
+        playPause: `'.MuiButtonBase-root[data-testid="playButton"]'`,
+    },
 }
 
 let lastPlayingTab = {}
